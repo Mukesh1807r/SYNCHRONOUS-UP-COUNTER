@@ -70,6 +70,6 @@ endmodule
 
 ![image](https://github.com/user-attachments/assets/7679d877-b302-4a5a-92c8-35025daf83e0)
 
-**RESULTS**
+**RESULT**
 
 4 bit synchronous up counter and validate functionality.
